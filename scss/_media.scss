@@ -1,0 +1,69 @@
+@media only screen and (max-width : 1380px){
+.header__box{
+	padding: 27px 36px 133px 42px;
+    width: 400px;
+}
+.header__box-logo{
+	margin-bottom: 54px;
+}
+.header__box-filter{
+	margin-bottom: 36px;
+    padding-right: 0px;
+}
+.region-input, .company-input, .object-inputs{
+	
+	padding: 0px 15px 6px 0px;
+    margin-bottom: 18px;
+}
+.region-title, .object-title, .company-title, .floor-title{
+	font-size: 14px;
+    line-height: 19px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.menu{
+	 transform: translateX(-350px);
+	 width: 400px;
+}
+.logo-active{
+	top: 30px;
+    right: 28px;
+    padding-top: 52px;
+}
+.header__box-logo img{
+	padding-right: 110px;
+}
+.header__box-filter a{
+	padding-right: 30px;
+}
+.menu_active {
+  transform: translateX(0%);
+}
+.region-input nav:first-child {
+    margin-right: 50px;
+}
+.company-input nav:first-child {
+    margin-right: 35px;
+}
+.object-inputs nav:first-child {
+    margin-right: 30px;
+}
+.object-container{
+	padding: 47px 36px 20px 36px;
+    overflow: scroll;
+    width: 650px;
+}
+.info__img img{
+	width: 95%;
+	height: auto;
+}
+.info__banner img{
+	width: 95%;
+	height: auto;
+}
+.radio_buttons label{
+	width: 73px;
+    height: 33px;
+}
+
+}
